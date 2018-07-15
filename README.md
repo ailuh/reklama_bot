@@ -1,1 +1,1 @@
-reklama_bot
+reklama_bot dw
